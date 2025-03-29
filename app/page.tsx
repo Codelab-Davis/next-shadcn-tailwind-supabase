@@ -170,7 +170,7 @@ export default function Home() {
                     <p className="text-sm text-muted-foreground">
                         Built with ♥ by{" "}
                         <a
-                            href="https://github.com/Codelab-Davis"
+                            href="https://codelabdavis.com"
                             className="underline underline-offset-4"
                         >
                             CodeLab Davis
