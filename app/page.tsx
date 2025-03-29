@@ -30,7 +30,7 @@ export default function Home() {
                             </Link>
                         </Button>
                         <Button asChild size="lg" variant="outline">
-                            <Link href="https://github.com/Codelab-Davis/next-shadcn-tailwind-supabase.git/blob/main/README.md">
+                            <Link href="https://github.com/Codelab-Davis/next-shadcn-tailwind-supabase/blob/main/README.md">
                                 Get Started
                                 <ArrowRight className="ml-2 size-5" />
                             </Link>
@@ -155,7 +155,7 @@ export default function Home() {
 
                     <div className="mt-8 text-center">
                         <Button asChild variant="outline">
-                            <Link href="https://github.com/Codelab-Davis/next-shadcn-tailwind-supabase.git/blob/main/README.md">
+                            <Link href="https://github.com/Codelab-Davis/next-shadcn-tailwind-supabase/blob/main/README.md">
                                 View more instructions
                                 <ArrowRight className="ml-2 size-5" />
                             </Link>
@@ -178,7 +178,7 @@ export default function Home() {
                     </p>
                     <div className="flex gap-6 mt-4 md:mt-0">
                         <Link
-                            href="https://github.com/Codelab-Davis/next-shadcn-tailwind-supabase.git/blob/main/README.md"
+                            href="https://github.com/Codelab-Davis/next-shadcn-tailwind-supabase/blob/main/README.md"
                             className="text-sm text-muted-foreground hover:underline underline-offset-4"
                         >
                             README Documentation
